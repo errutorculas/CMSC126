@@ -1,0 +1,1805 @@
+@charset "utf-8";
+/* CSS Document */
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__2 {
+		position: absolute;
+		width: 1920px;
+		height: 4140px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Rectangle_54 {
+		fill: rgba(240,240,240,1);
+	}
+	.Rectangle_54 {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 791px;
+		height: 762px;
+		left: 166px;
+		top: 2470px;
+	}
+	#Mask_Group_2 {
+		position: absolute;
+		width: 641px;
+		height: 612px;
+		left: 166px;
+		top: 2470px;
+		overflow: visible;
+	}
+	#bg-01 {
+		position: absolute;
+		width: 831px;
+		height: 7px;
+		left: 545px;
+		top: 2393px;
+		overflow: visible;
+	}
+	#bg-01_n {
+		position: absolute;
+		width: 1920px;
+		height: 699px;
+		left: 0px;
+		top: 3441px;
+		overflow: visible;
+	}
+	#bg {
+		position: absolute;
+		width: 1920px;
+		height: 1079px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Digitalize_your_way_of_learnin {
+		left: 494px;
+		top: 206px;
+		position: absolute;
+		overflow: visible;
+		width: 933px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 63px;
+		color: rgba(255,255,255,1);
+	}
+	#Through_facilitating_effective {
+		left: 614px;
+		top: 304px;
+		position: absolute;
+		overflow: visible;
+		width: 693px;
+		height: 46px;
+		line-height: 36px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_13 {
+		position: absolute;
+		width: 690px;
+		height: 388px;
+		left: 1085px;
+		top: 416px;
+		overflow: visible;
+	}
+	#Rectangle_24 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_24 {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 840px;
+		height: 538px;
+		left: 0px;
+		top: 0px;
+	}
+	#play-circle-icon {
+		position: absolute;
+		width: 672px;
+		height: 372px;
+		left: 6.333px;
+		top: 6.667px;
+		overflow: visible;
+	}
+	#Path_80 {
+		fill: transparent;
+		stroke: rgba(92,144,220,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_80 {
+		overflow: visible;
+		position: absolute;
+		width: 672.484px;
+		height: 372.875px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_81 {
+		fill: transparent;
+		stroke: rgba(92,144,220,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_81 {
+		overflow: visible;
+		position: absolute;
+		width: 672.484px;
+		height: 372.875px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#play-circle-icon_w {
+		fill: rgba(89,89,89,1);
+	}
+	.play-circle-icon_w {
+		overflow: visible;
+		position: absolute;
+		width: 76.439px;
+		height: 76.439px;
+		left: 300.029px;
+		top: 149.253px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#play-icon {
+		fill: rgba(240,240,240,1);
+	}
+	.play-icon {
+		overflow: visible;
+		position: absolute;
+		width: 27.218px;
+		height: 33.343px;
+		left: 326.937px;
+		top: 170.883px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#seekbar {
+		position: absolute;
+		width: 366.076px;
+		height: 13.146px;
+		left: 161.924px;
+		top: 354.404px;
+		overflow: visible;
+	}
+	#ios-play {
+		fill: rgba(89,89,89,1);
+	}
+	.ios-play {
+		overflow: visible;
+		position: absolute;
+		width: 10.731px;
+		height: 13.146px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#progress-bar {
+		position: absolute;
+		width: 346px;
+		height: 6px;
+		left: 20.076px;
+		top: 2.596px;
+		overflow: visible;
+	}
+	#Path_78 {
+		fill: rgba(240,240,240,1);
+	}
+	.Path_78 {
+		overflow: visible;
+		position: absolute;
+		width: 346px;
+		height: 6px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_23 {
+		fill: rgba(89,89,89,1);
+	}
+	.Rectangle_23 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 6px;
+		left: 0px;
+		top: 0px;
+	}
+	#When_inclusivity_is_at_reach_c {
+		left: 324px;
+		top: 1484.774px;
+		position: absolute;
+		overflow: visible;
+		width: 677px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(38,38,38,1);
+	}
+	#This_is_an_SMS-based_learning_ {
+		left: 324.605px;
+		top: 1664.561px;
+		position: absolute;
+		overflow: visible;
+		width: 699.672px;
+		height: 138.77389526367188px;
+		line-height: 35px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(89,89,89,1);
+	}
+	#To_help_the_underprivileged_to {
+		left: 318px;
+		top: 2142px;
+		position: absolute;
+		overflow: visible;
+		width: 1285px;
+		white-space: nowrap;
+		line-height: 56px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(38,38,38,1);
+	}
+	#Make_education_accessible_and_ {
+		left: 466.5px;
+		top: 2291px;
+		position: absolute;
+		overflow: visible;
+		width: 989px;
+		white-space: nowrap;
+		line-height: 46px;
+		margin-top: -9px;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(89,89,89,1);
+	}
+	#solid-button {
+		position: absolute;
+		width: 290px;
+		height: 69px;
+		left: 320px;
+		top: 1848px;
+		overflow: visible;
+	}
+	#Path_83 {
+		fill: rgba(119,76,173,1);
+		stroke: rgba(119,76,173,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_83 {
+		overflow: visible;
+		position: absolute;
+		width: 290px;
+		height: 69px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Sign_Up_for_Free {
+		left: 39px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 213px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+	}
+	#solid-button_ba {
+		position: absolute;
+		width: 254px;
+		height: 64px;
+		left: 617px;
+		top: 1850px;
+		overflow: visible;
+	}
+	#Rectangle_37 {
+		fill: transparent;
+		stroke: rgba(119,76,173,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_37 {
+		position: absolute;
+		overflow: visible;
+		width: 254px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+	}
+	#Find_Out_More {
+		left: 46px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(89,89,89,1);
+	}
+	#solid-button_bd {
+		position: absolute;
+		width: 288px;
+		height: 64px;
+		left: 1232px;
+		top: 2963px;
+		overflow: visible;
+	}
+	#Rectangle_37_be {
+		fill: transparent;
+		stroke: rgba(119,76,173,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_37_be {
+		position: absolute;
+		overflow: visible;
+		width: 288px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_Started_Now {
+		left: 47px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(89,89,89,1);
+	}
+	#Rectangle_25 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_25 {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 1322px;
+		height: 529px;
+		left: 371px;
+		top: 3212px;
+	}
+	#EduBuddy {
+		left: 438px;
+		top: 3683px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -19px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Us {
+		left: 772px;
+		top: 3683px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -22px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#The_Team {
+		left: 774px;
+		top: 3746px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#The_Team_bk {
+		left: 1046px;
+		top: 3746px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#The_Team_bl {
+		left: 1318px;
+		top: 3746px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact {
+		left: 774px;
+		top: 3787px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_bn {
+		left: 1046px;
+		top: 3787px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_bo {
+		left: 1318px;
+		top: 3787px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Diversity {
+		left: 774px;
+		top: 3828px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Diversity_bq {
+		left: 1046px;
+		top: 3828px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Diversity_br {
+		left: 1318px;
+		top: 3828px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Jobs {
+		left: 774px;
+		top: 3870px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Jobs_bt {
+		left: 1046px;
+		top: 3870px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Jobs_bu {
+		left: 1318px;
+		top: 3870px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Wavelength {
+		left: 772px;
+		top: 3911px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Wavelength_bw {
+		left: 1044px;
+		top: 3911px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Wavelength_bx {
+		left: 1316px;
+		top: 3911px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -23px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Solution {
+		left: 1046px;
+		top: 3683px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -22px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Agile_Environment {
+		left: 1318px;
+		top: 3683px;
+		position: absolute;
+		overflow: visible;
+		width: 178px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -22px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Line_3 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 1920px;
+		height: 1px;
+		left: 0.5px;
+		top: 4060.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Aims_to_integrate_empathetic_s {
+		left: 1088px;
+		top: 2618.774px;
+		position: absolute;
+		overflow: visible;
+		width: 519px;
+		white-space: nowrap;
+		line-height: 64px;
+		margin-top: -7px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(38,38,38,1);
+	}
+	#Continuously_immersing_ourselv {
+		left: 1088.605px;
+		top: 2798.561px;
+		position: absolute;
+		overflow: visible;
+		width: 699.672px;
+		height: 130.77389526367188px;
+		line-height: 35px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(89,89,89,1);
+	}
+	#Subscribe_to_get_exclusive_upd {
+		left: 653px;
+		top: 3315px;
+		position: absolute;
+		overflow: visible;
+		width: 615px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(38,38,38,1);
+	}
+	#Line_4 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_4 {
+		overflow: visible;
+		position: absolute;
+		width: 378px;
+		height: 1px;
+		left: 771.5px;
+		top: 3443.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Enter_your_email {
+		left: 873px;
+		top: 3402px;
+		position: absolute;
+		overflow: visible;
+		width: 175px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 24px;
+		color: rgba(216,216,216,1);
+	}
+	#Group_14 {
+		position: absolute;
+		width: 180px;
+		height: 54px;
+		left: 870px;
+		top: 3477px;
+		overflow: visible;
+		cursor: pointer;
+	}
+	#Path_82 {
+		fill: rgba(119,76,173,1);
+	}
+	.Path_82 {
+		overflow: visible;
+		position: absolute;
+		width: 180px;
+		height: 54px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Subscribe {
+		left: 35px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(240,240,240,1);
+	}
+	#Line_5 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 1920px;
+		height: 1px;
+		left: 0.5px;
+		top: 109.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_35 {
+		position: absolute;
+		width: 145.564px;
+		height: 19.815px;
+		left: 886.873px;
+		top: 4094.185px;
+		overflow: visible;
+	}
+	#facebook-f {
+		fill: rgba(255,255,255,1);
+	}
+	.facebook-f {
+		overflow: visible;
+		position: absolute;
+		width: 10.613px;
+		height: 19.815px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#linkedin-in {
+		fill: rgba(255,255,255,1);
+	}
+	.linkedin-in {
+		overflow: visible;
+		position: absolute;
+		width: 19.815px;
+		height: 19.814px;
+		left: 56.074px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#twitter {
+		fill: rgba(255,255,255,1);
+	}
+	.twitter {
+		overflow: visible;
+		position: absolute;
+		width: 24.396px;
+		height: 19.814px;
+		left: 121.167px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_1__1 {
+		position: absolute;
+		width: 57px;
+		height: 24px;
+		left: 865px;
+		top: 40px;
+		overflow: visible;
+	}
+	#Home {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	
+	#Download_on_the_App_Store_Badg.Path_11{
+		border-radius: 35px;
+	}
+	
+	#Component_2__1 {
+		position: absolute;
+		width: 88px;
+		height: 24px;
+		left: 982px;
+		top: 40px;
+		overflow: visible;
+	}
+	#About_Us_ch {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		cursor: pointer;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_3__1 {
+		position: absolute;
+		width: 113px;
+		height: 24px;
+		left: 1130px;
+		top: 40px;
+		overflow: visible;
+	}
+	#Partnership {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		cursor: pointer;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_4__1 {
+		position: absolute;
+		width: 75px;
+		height: 24px;
+		left: 1303px;
+		top: 40px;
+		overflow: visible;
+	}
+	#Contact_cl {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_16 {
+		position: absolute;
+		width: 180px;
+		height: 48px;
+		left: 1423px;
+		top: 28px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: Artboard___4.html;
+		cursor: pointer;
+	}
+	#Rectangle_33 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_33 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+	}
+	#Sign_In_ {
+		left: 56px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#logo2-02 {
+		position: absolute;
+		width: 102px;
+		height: 102px;
+		left: 343px;
+		top: 0px;
+		overflow: visible;
+	}
+	#EduBuddy_cq {
+		left: 435px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		white-space: nowrap;
+		line-height: 54px;
+		margin-top: -17px;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#ios-quote {
+		fill: rgba(119,76,173,1);
+	}
+	.ios-quote {
+		overflow: visible;
+		position: absolute;
+		width: 94.02px;
+		height: 94.049px;
+		transform: matrix(1,0,0,1,198,2095.0004) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#ios-quote_cs {
+		fill: rgba(119,76,173,1);
+	}
+	.ios-quote_cs {
+		overflow: visible;
+		position: absolute;
+		width: 94.02px;
+		height: 94.049px;
+		left: 1602px;
+		top: 2223px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#logo2-02_ct {
+		position: absolute;
+		width: 102px;
+		height: 102px;
+		left: 344px;
+		top: 3646px;
+		overflow: visible;
+	}
+	#ios-arrow-back {
+		fill: rgba(255,255,255,1);
+	}
+	.ios-arrow-back {
+		overflow: visible;
+		position: absolute;
+		width: 25.025px;
+		height: 43.773px;
+		transform: matrix(1,0,0,1,1797.1484,3976.6262) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_24_cv {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_24_cv {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 840px;
+		height: 538px;
+		left: 1085px;
+		top: 416px;
+	}
+	#Google_Play_Store_badge_EN {
+		position: absolute;
+		width: 215.031px;
+		height: 63.451px;
+		left: 1463.969px;
+		top: 865.037px;
+		overflow: visible;
+	}
+	#Path_35 {
+		fill: rgba(0,0,0,1);
+	}
+	.Path_35 {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 365.031px;
+		height: 213.451px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_37 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_37 {
+		overflow: visible;
+		position: absolute;
+		width: 61.921px;
+		height: 10.257px;
+		left: 65.441px;
+		top: 10.732px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_38 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_38 {
+		overflow: visible;
+		position: absolute;
+		width: 134.431px;
+		height: 27.022px;
+		left: 65.141px;
+		top: 27.018px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_39 {
+		fill: rgba(1,213,255,1);
+	}
+	.Path_39 {
+		overflow: visible;
+		position: absolute;
+		width: 20.515px;
+		height: 39.748px;
+		left: 15.827px;
+		top: 11.844px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_40 {
+		fill: rgba(253,205,7,1);
+	}
+	.Path_40 {
+		overflow: visible;
+		position: absolute;
+		width: 16.115px;
+		height: 13.568px;
+		left: 36.326px;
+		top: 24.941px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_41 {
+		fill: rgba(244,48,73,1);
+	}
+	.Path_41 {
+		overflow: visible;
+		position: absolute;
+		width: 26.472px;
+		height: 20.405px;
+		left: 16.551px;
+		top: 31.726px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_42 {
+		fill: rgba(3,240,117,1);
+	}
+	.Path_42 {
+		overflow: visible;
+		position: absolute;
+		width: 26.472px;
+		height: 20.393px;
+		left: 16.551px;
+		top: 11.333px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_43 {
+		opacity: 0.2;
+		fill: rgba(0,0,0,1);
+	}
+	.Path_43 {
+		overflow: visible;
+		position: absolute;
+		width: 26.473px;
+		height: 13.844px;
+		left: 16.567px;
+		top: 38.281px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_44 {
+		opacity: 0.12;
+		fill: rgba(0,0,0,1);
+	}
+	.Path_44 {
+		overflow: visible;
+		position: absolute;
+		width: 9.553px;
+		height: 6.697px;
+		left: 42.861px;
+		top: 31.726px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_45 {
+		opacity: 0.25;
+		fill: rgba(255,255,255,1);
+	}
+	.Path_45 {
+		overflow: visible;
+		position: absolute;
+		width: 36.607px;
+		height: 20.4px;
+		left: 15.827px;
+		top: 11.326px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Download_on_the_App_Store_Badg {
+		position: absolute;
+		width: 218.765px;
+		height: 62.779px;
+		left: 1180.025px;
+		top: 865.037px;
+		overflow: visible;
+	}
+	#Path_11 {
+		fill: rgba(0,0,0,1);
+	}
+	.Path_11 {
+		filter: drop-shadow(0px 24px 50px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 368.765px;
+		height: 212.779px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_9 {
+		position: absolute;
+		width: 34.104px;
+		height: 41.918px;
+		left: 19.556px;
+		top: 8.753px;
+		overflow: visible;
+	}
+	#Group_8 {
+		position: absolute;
+		width: 34.104px;
+		height: 41.918px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_12 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_12 {
+		overflow: visible;
+		position: absolute;
+		width: 34.104px;
+		height: 31.806px;
+		left: 0px;
+		top: 10.111px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_13 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_13 {
+		overflow: visible;
+		position: absolute;
+		width: 8.471px;
+		height: 9.68px;
+		left: 16.948px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_10 {
+		position: absolute;
+		width: 131.03px;
+		height: 28.611px;
+		left: 68.221px;
+		top: 28.115px;
+		overflow: visible;
+	}
+	#Path_14 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_14 {
+		overflow: visible;
+		position: absolute;
+		width: 18.46px;
+		height: 21.866px;
+		left: 0px;
+		top: 0.32px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_15 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_15 {
+		overflow: visible;
+		position: absolute;
+		width: 15.184px;
+		height: 22.515px;
+		left: 21.378px;
+		top: 6.096px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_16 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_16 {
+		overflow: visible;
+		position: absolute;
+		width: 15.182px;
+		height: 22.515px;
+		left: 39.515px;
+		top: 6.096px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_17 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_17 {
+		overflow: visible;
+		position: absolute;
+		width: 13.565px;
+		height: 22.51px;
+		left: 61.407px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_18 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_18 {
+		overflow: visible;
+		position: absolute;
+		width: 9.602px;
+		height: 20.018px;
+		left: 76.953px;
+		top: 2.491px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_19 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_19 {
+		overflow: visible;
+		position: absolute;
+		width: 15.443px;
+		height: 16.446px;
+		left: 88.533px;
+		top: 6.097px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_20 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_20 {
+		overflow: visible;
+		position: absolute;
+		width: 8.436px;
+		height: 16.091px;
+		left: 106.928px;
+		top: 6.096px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_21 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_21 {
+		overflow: visible;
+		position: absolute;
+		width: 14.012px;
+		height: 16.413px;
+		left: 117.018px;
+		top: 6.066px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_12 {
+		position: absolute;
+		width: 127.391px;
+		height: 11.475px;
+		left: 70.301px;
+		top: 9.31px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 127.391px;
+		height: 11.475px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_22 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_22 {
+		overflow: visible;
+		position: absolute;
+		width: 8.83px;
+		height: 10.918px;
+		left: 0px;
+		top: 0.477px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_23 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_23 {
+		overflow: visible;
+		position: absolute;
+		width: 7.586px;
+		height: 8.079px;
+		left: 10.871px;
+		top: 3.396px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_24 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_24 {
+		overflow: visible;
+		position: absolute;
+		width: 11.222px;
+		height: 7.746px;
+		left: 20.143px;
+		top: 3.554px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_25 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_25 {
+		overflow: visible;
+		position: absolute;
+		width: 6.789px;
+		height: 7.908px;
+		left: 33.503px;
+		top: 3.391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_26 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_26 {
+		overflow: visible;
+		position: absolute;
+		width: 1.72px;
+		height: 11.299px;
+		left: 43.32px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_27 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_27 {
+		overflow: visible;
+		position: absolute;
+		width: 7.586px;
+		height: 8.079px;
+		left: 47.593px;
+		top: 3.396px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_28 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_28 {
+		overflow: visible;
+		position: absolute;
+		width: 6.359px;
+		height: 8.079px;
+		left: 57.154px;
+		top: 3.396px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_29 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_29 {
+		overflow: visible;
+		position: absolute;
+		width: 7.394px;
+		height: 11.475px;
+		left: 65.903px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_30 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_30 {
+		overflow: visible;
+		position: absolute;
+		width: 7.586px;
+		height: 8.079px;
+		left: 80.438px;
+		top: 3.396px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_31 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_31 {
+		overflow: visible;
+		position: absolute;
+		width: 6.788px;
+		height: 7.908px;
+		left: 90.495px;
+		top: 3.391px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_32 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_32 {
+		overflow: visible;
+		position: absolute;
+		width: 4.717px;
+		height: 9.834px;
+		left: 104.154px;
+		top: 1.625px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_33 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_33 {
+		overflow: visible;
+		position: absolute;
+		width: 6.727px;
+		height: 11.299px;
+		left: 111.261px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_34 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_34 {
+		overflow: visible;
+		position: absolute;
+		width: 6.886px;
+		height: 8.063px;
+		left: 120.505px;
+		top: 3.382px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_40 {
+		position: absolute;
+		width: 480px;
+		height: 140px;
+		left: 567px;
+		top: 2963px;
+		overflow: visible;
+	}
+	#Rectangle_29 {
+		fill: rgba(195,31,51,1);
+	}
+	.Rectangle_29 {
+		filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 552px;
+		height: 212px;
+		left: 0px;
+		top: 0px;
+	}
+	#Global-Goals-icon-4-Quality-ed {
+		filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 187px;
+		height: 105px;
+		left: 45px;
+		top: 18px;
+		overflow: visible;
+	}
+	#Quality_Education {
+		left: 181px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Line_6 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_6 {
+		filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 114px;
+		height: 19px;
+		left: 181.5px;
+		top: 79.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SDG_4 {
+		left: 184px;
+		top: 88px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_41 {
+		position: absolute;
+		width: 480px;
+		height: 140px;
+		left: 413px;
+		top: 2794px;
+		overflow: visible;
+	}
+	#Rectangle_28 {
+		fill: rgba(225,20,132,1);
+	}
+	.Rectangle_28 {
+		filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 552px;
+		height: 212px;
+		left: 0px;
+		top: 0px;
+	}
+	#goal-10 {
+		filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 93px;
+		height: 93px;
+		left: 59px;
+		top: 24px;
+		overflow: visible;
+	}
+	#Reduced_Inequalities {
+		left: 187px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Line_7 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_7 {
+		filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 114px;
+		height: 19px;
+		left: 187.5px;
+		top: 79.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SDG_10 {
+		left: 187px;
+		top: 88px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Mask_Group_1 {
+		position: absolute;
+		width: 753.245px;
+		height: 801px;
+		left: 1166.557px;
+		top: 1251px;
+		overflow: visible;
+	}
+	#Mask_Group_3 {
+		position: absolute;
+		width: 458px;
+		height: 915px;
+		left: 290px;
+		top: 439px;
+		overflow: visible;
+	}
+	#Mask_Group_4 {
+		position: absolute;
+		width: 512px;
+		height: 930px;
+		left: 532px;
+		top: 371px;
+		overflow: visible;
+	}
+	#subscribe_enter {
+		left: -100px;
+		position: absolute; 
+		width: 378px;
+		height: 29px;
+		font-family: Visby Round CF;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
